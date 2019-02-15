@@ -6,6 +6,6 @@ It uses Davide Alberani's python package IMDbPY to retrieve and manage the data 
 
 The script imdb_movieID.py, reads all the titles from a .csv file, sends the request to IMDb, and writes the retrieved information on a second .csv file. This script just retrieves the top 4 title matches on the Db and includes imdbID, title, and year.
 
-Next step will be to figure out how to do alter the search strategy so there are two matching factors, title and year.
+Next step will be altering the search strategy so there are two matching factors, title and year.
 
 More to come...
