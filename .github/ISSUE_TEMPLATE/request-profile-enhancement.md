@@ -24,6 +24,6 @@ _Add any other context or screenshots about the enhancement request here. Ex: ..
 
 _Before you submit the request:_
 
-_[] *Title* --> Please include the resource template ID_
-_[] *Labels* -->  Please add a label with the resource template ID_
+_[] **Title** --> Please include the resource template ID_
+_[] **Labels** -->  Please add a label with the resource template ID_
 _[] Add any other relevant label_
