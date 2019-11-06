@@ -8,22 +8,21 @@ assignees: ''
 
 ---
 
-_Please only use this profile enhancement template to request additional functionalities to the existing LD4P profiles. If you would like to request a current issue with one of the existing ld4p profiles, please use the Report a profile issue template._
+_Please only use this profile enhancement template to request additional functionalities to the existing LD4P profiles. If you would like to report an issue with one of the existing ld4p profiles, please use the Report a profile issue template._
 
-**Indicate resource template**
-_Please add here the ID of the resource template for which a you are requesting the enhancement. Ex: ld4p:RT:bf2:Monograph:Work_
+**Indicate profile or resource template ID**
+_Please add here the ID for the profile or resource template for which you are requesting an enhancement. Ex: ld4p:RT:bf2:Monograph:Work_
 
 **Describe requested enhancement**
-_A clear and concise description of the desired enhancement. Ex: .._
+_A clear and concise description of the desired enhancement._
 
 **Request rationale**
-_A clear and concise explanation of why this enhancement should be implemented. Ex: .._
+_A clear and concise explanation of why this enhancement should be implemented._
 
 **Additional context**
-_Add any other context or screenshots about the enhancement request here. Ex: ..._
+_Add any other context or screenshots about the enhancement request here._
 
 _Before you submit the request:_
 
-_[] **Title** --> Please include the resource template ID_
 _[] **Labels** -->  Please add a label with the resource template ID_
 _[] Add any other relevant label_
