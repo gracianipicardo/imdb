@@ -22,8 +22,8 @@ _A clear and concise explanation of why this enhancement should be implemented. 
 **Additional context**
 _Add any other context or screenshots about the enhancement request here. Ex: ..._
 
-_To finalize the request:_
+_Before you submit the request:_
 
-_[] add a brief title including the resource template ID_
-_[] add a label with the ID of the resource template_ 
+_[] *Title* --> Please include the resource template ID_
+_[] *Labels* -->  Please add a label with the resource template ID_
 _[] Add any other relevant label_
